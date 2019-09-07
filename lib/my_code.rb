@@ -7,4 +7,4 @@ def make_sandwich(element1, element2)
 end
 
 make_sandwich("gator", "gumbo") do |innards|
-  
+  ""
